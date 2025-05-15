@@ -5,4 +5,8 @@ P3 o/p link-------------------https://github.com/sharanyar064/ADJ4AL22CS132/blob
 P4 o/p link------https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20091904.png
 P5 o/p link------https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20092505.png
 P6 o/p link-----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20093227.png
+P7 o/p link------https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20094555.png
+p8 o/p link----
+p9 o/p link-----
+
 
