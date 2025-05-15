@@ -13,6 +13,7 @@ p11 o/p link----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screensh
 StringOperationsDemo -----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20111312.png
 PerformanceTest-----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20111907.png
 StringOperations----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20112830.png
+StringCheck   ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20154736.png
 
 
 
