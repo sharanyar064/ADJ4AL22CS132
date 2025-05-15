@@ -14,6 +14,7 @@ StringOperationsDemo -----https://github.com/sharanyar064/ADJ4AL22CS132/blob/mai
 PerformanceTest-----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20111907.png
 StringOperations----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20112830.png
 StringCheck   ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20154736.png
+SubstringCounter  ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20155553.png
 
 
 
