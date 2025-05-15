@@ -25,7 +25,8 @@ HelloSwing---https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%
 ImageButtonDemo ---https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20212352.png  
 CountryListDemo---- https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20213311.png    https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20213317.png  
 ColorTabbedPaneDemo ---https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20214452.png  
-CountryCapitalListDemo ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20215456.png     https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20215503.png
+CountryCapitalListDemo ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20215456.png     https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20215503.png  
+ColorTabbedPane---https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20215905.png
                 
 
 
