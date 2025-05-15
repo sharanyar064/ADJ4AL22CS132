@@ -20,6 +20,7 @@ WordCapitalizer ---https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Scree
 StringTruncator ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20164122.png  
 NumericCheck----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20183012.png  
 RandomStringGenerator--- https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20183908.png  
+WordCounter ---https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20184546.png
                 
 
 
