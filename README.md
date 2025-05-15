@@ -15,7 +15,8 @@ PerformanceTest-----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Scre
 StringOperations----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20112830.png  
 StringCheck   ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20154736.png  
 SubstringCounter  ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20155553.png  
-WhitespaceRemover ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20161118.png
+WhitespaceRemover ----https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20161118.png  
+WordCapitalizer ---https://github.com/sharanyar064/ADJ4AL22CS132/blob/main/Screenshot%202025-05-15%20163252.png  
 
 
 
